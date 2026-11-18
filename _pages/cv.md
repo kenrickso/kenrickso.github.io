@@ -27,6 +27,12 @@ redirect_from:
 
 - Climate Driven Mortality Forecasting using Deep Learning, Actuarial Workshop, KU Leuven, November 2026.
 
+# Grants
+
+- [Risks Travel Award 2026.](https://www.mdpi.com/journal/risks/awards/3812)
+
+- FNRS Mobility and Congress Funding 2026
+
 # Tutorial Sessions
 
 - **Data Mining**, Masters - Data Science and Statistics, UCLouvain, 2025-2026
